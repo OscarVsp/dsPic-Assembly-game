@@ -7,22 +7,6 @@ Oscar Van Slijpe
 
 Academic Year 2021-
 
-
-## Contents
-
-- 1 Overview
-- 2 Memory entities
-   - 2.1 Layer table
-   - 2.2 Screen Buffer
-   - 2.3 Pre Buffer
-   - 2.4 Player buffer
-- 3 Codes description
-   - 3.1 Main
-   - 3.2 Game update
-   - 3.3 Display update
-   - 3.4 Buzzer
-
-
 ## Overview
 
 ```
