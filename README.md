@@ -15,4 +15,4 @@ taining obstacles is loaded at the top, layer per layer and go
 down while the controllable player stay at the bottom and can
 move around to avoid the incoming obstacles.
 
-See (report)[https://github.com/OscarVsp/dsPic-Assembly-game/blob/e2abbc93f82084a5c1665eed13015fa4ccf09896/MicroController%20Report%20-%20Oscar%20Van%20Slijpe.pdf] for detailed information.
+See [report](https://github.com/OscarVsp/dsPic-Assembly-game/blob/e2abbc93f82084a5c1665eed13015fa4ccf09896/MicroController%20Report%20-%20Oscar%20Van%20Slijpe.pdf) for detailed information.
